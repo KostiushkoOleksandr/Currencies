@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<CURRENCYCOURSE>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>036</CurrencyCode>
+    <CurrencyCodeL>AUD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>20.5764</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>944</CurrencyCode>
+    <CurrencyCodeL>AZN</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>17.2341</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>933</CurrencyCode>
+    <CurrencyCodeL>BYN</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>10.6335</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>975</CurrencyCode>
+    <CurrencyCodeL>BGN</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>15.7717</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>410</CurrencyCode>
+    <CurrencyCodeL>KRW</CurrencyCodeL>
+    <Units>100</Units>
+    <Amount>2.2955</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>344</CurrencyCode>
+    <CurrencyCodeL>HKD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>3.7269</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>208</CurrencyCode>
+    <CurrencyCodeL>DKK</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>4.1447</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>840</CurrencyCode>
+    <CurrencyCodeL>USD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>29.2549</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>978</CurrencyCode>
+    <CurrencyCodeL>EUR</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>30.842</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>818</CurrencyCode>
+    <CurrencyCodeL>EGP</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>1.602</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>392</CurrencyCode>
+    <CurrencyCodeL>JPY</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>2.2625</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>985</CurrencyCode>
+    <CurrencyCodeL>PLN</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>6.6396</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>356</CurrencyCode>
+    <CurrencyCodeL>INR</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>3.7768</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>124</CurrencyCode>
+    <CurrencyCodeL>CAD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>22.8171</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>191</CurrencyCode>
+    <CurrencyCodeL>HRK</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>4.0996</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>484</CurrencyCode>
+    <CurrencyCodeL>MXN</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>1.4651</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>498</CurrencyCode>
+    <CurrencyCodeL>MDL</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>1.5383</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>376</CurrencyCode>
+    <CurrencyCodeL>ILS</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>8.7128</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>554</CurrencyCode>
+    <CurrencyCodeL>NZD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>18.6354</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>578</CurrencyCode>
+    <CurrencyCodeL>NOK</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>3.0318</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>710</CurrencyCode>
+    <CurrencyCodeL>ZAR</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>1.8285</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>643</CurrencyCode>
+    <CurrencyCodeL>RUB</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>4.4918</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>946</CurrencyCode>
+    <CurrencyCodeL>RON</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>6.2336</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>360</CurrencyCode>
+    <CurrencyCodeL>IDR</CurrencyCodeL>
+    <Units>1000</Units>
+    <Amount>1.9973</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>702</CurrencyCode>
+    <CurrencyCodeL>SGD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>21.1425</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>960</CurrencyCode>
+    <CurrencyCodeL>XDR</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>39.2262</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>398</CurrencyCode>
+    <CurrencyCodeL>KZT</CurrencyCodeL>
+    <Units>100</Units>
+    <Amount>6.7383</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>949</CurrencyCode>
+    <CurrencyCodeL>TRY</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>1.8619</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>348</CurrencyCode>
+    <CurrencyCodeL>HUF</CurrencyCodeL>
+    <Units>100</Units>
+    <Amount>7.9849</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>826</CurrencyCode>
+    <CurrencyCodeL>GBP</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>36.5262</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>203</CurrencyCode>
+    <CurrencyCodeL>CZK</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>1.2485</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>752</CurrencyCode>
+    <CurrencyCodeL>SEK</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>2.959</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>756</CurrencyCode>
+    <CurrencyCodeL>CHF</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>29.4834</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>156</CurrencyCode>
+    <CurrencyCodeL>CNY</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>4.3504</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>012</CurrencyCode>
+    <CurrencyCodeL>DZD</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>2.0137</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>764</CurrencyCode>
+    <CurrencyCodeL>THB</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>8.5561</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>986</CurrencyCode>
+    <CurrencyCodeL>BRL</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>5.9196</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>051</CurrencyCode>
+    <CurrencyCodeL>AMD</CurrencyCodeL>
+    <Units>100</Units>
+    <Amount>6.4543</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>784</CurrencyCode>
+    <CurrencyCodeL>AED</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>7.9649</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>214</CurrencyCode>
+    <CurrencyCodeL>DOP</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>5.3264</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>704</CurrencyCode>
+    <CurrencyCodeL>VND</CurrencyCodeL>
+    <Units>1000</Units>
+    <Amount>1.274</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>368</CurrencyCode>
+    <CurrencyCodeL>IQD</CurrencyCodeL>
+    <Units>100</Units>
+    <Amount>2.0038</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>364</CurrencyCode>
+    <CurrencyCodeL>IRR</CurrencyCodeL>
+    <Units>10000</Units>
+    <Amount>6.9655</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>981</CurrencyCode>
+    <CurrencyCodeL>GEL</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>9.5918</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>422</CurrencyCode>
+    <CurrencyCodeL>LBP</CurrencyCodeL>
+    <Units>100</Units>
+    <Amount>1.9406</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>434</CurrencyCode>
+    <CurrencyCodeL>LYD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>6.1069</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>458</CurrencyCode>
+    <CurrencyCodeL>MYR</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>6.7195</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>504</CurrencyCode>
+    <CurrencyCodeL>MAD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>2.9285</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>901</CurrencyCode>
+    <CurrencyCodeL>TWD</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>9.9385</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>586</CurrencyCode>
+    <CurrencyCodeL>PKR</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>1.5755</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>682</CurrencyCode>
+    <CurrencyCodeL>SAR</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>7.799</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>941</CurrencyCode>
+    <CurrencyCodeL>RSD</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>2.6221</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>417</CurrencyCode>
+    <CurrencyCodeL>KGS</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>3.5633</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>972</CurrencyCode>
+    <CurrencyCodeL>TJS</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>2.3413</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>050</CurrencyCode>
+    <CurrencyCodeL>BDT</CurrencyCodeL>
+    <Units>10</Units>
+    <Amount>3.384</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>788</CurrencyCode>
+    <CurrencyCodeL>TND</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>9.4836</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>934</CurrencyCode>
+    <CurrencyCodeL>TMT</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>8.3585</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>860</CurrencyCode>
+    <CurrencyCodeL>UZS</CurrencyCodeL>
+    <Units>1000</Units>
+    <Amount>2.6168</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>959</CurrencyCode>
+    <CurrencyCodeL>XAU</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>53692.98</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>961</CurrencyCode>
+    <CurrencyCodeL>XAG</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>638.93</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>962</CurrencyCode>
+    <CurrencyCodeL>XPT</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>28021.22</Amount>
+</ROW>
+  <ROW>
+    <StartDate>18.05.2022</StartDate>
+    <TimeSign>0000</TimeSign>
+    <CurrencyCode>964</CurrencyCode>
+    <CurrencyCodeL>XPD</CurrencyCodeL>
+    <Units>1</Units>
+    <Amount>59460.88</Amount>
+</ROW>
+</CURRENCYCOURSE>
